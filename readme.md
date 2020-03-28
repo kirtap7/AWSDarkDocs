@@ -8,3 +8,4 @@ Script to be used with [Greaseonkey](https://addons.mozilla.org/en-US/firefox/ad
 - Currently not implemented for `cli` and `api-reference` documentation.
 
 #### Preview
+![image](https://user-images.githubusercontent.com/43250806/77828144-9e279b80-7111-11ea-9590-b897bce8cc23.png)
